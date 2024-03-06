@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #102e15;
+    min-height: 100vh;
+}
+.cara{
+    width: 450px;
+    height: 500px;
+    background: #c731a1;
+    border-radius: 50%;
+    position: fixed;
+    left: 520px;
+    top: 150px;
+}
+.ojo1{
+    width: 80px;
+    height: 150px;
+    background: #F5F5DC;
+    position: fixed;
+    border-radius: 100px 100px 0 0;
+    left: 620px;
+    top: 280px;
+}
+.ojo2{
+    width: 80px;
+    height: 150px;
+    background: #F5F5DC;
+    position: fixed;
+    border-radius: 100px 100px 0 0;
+    left: 800px;
+    top: 280px;
+}
+.nariz{
+    width: 90px;
+    height: 90px;
+    background: #c73131;
+    border-radius: 50%;
+    position: fixed;
+    left: 705px;
+    top: 380px;
+}
+.boca{
+    width: 250px;
+    height: 110px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    position: fixed;
+    left: 620px;
+    top: 480px;
+}
+.sombrero{
+    width: 480px;
+    height: 70px;
+    background: #1695a9;
+    position: fixed;
+    left: 510px;
+    top: 150px;
+    border-radius: 20px 20px 5px 5px;
+}
+.sombrero2{
+    width: 220px;
+    height: 130px;
+    background: #1695a9;
+    position: fixed;
+    left: 630px;
+    top: 20px;
+    border-radius: 30px 30px 0 0;
+}
+.labios{
+    width: 150px;
+    height: 80px;
+    background: #5cc336;
+    border-radius: 50%;
+    position: fixed;
+    left: 670px;
+    top: 495px;
+}
+.labios2{
+    width: 120px;
+    height: 50px;
+    background: #f1f1f1;
+    border-radius: 50%;
+    position: fixed;
+    left: 685px;
+    top: 510px;
+}
+.pupila{
+    width: 50px;
+    height: 50px;
+    background: #131113;
+    border-radius: 50%;
+    position: fixed;
+    left: 634px;
+    top: 370px;
+}
+.pupila2{
+    width: 50px;
+    height: 50px;
+    background: #131113;
+    border-radius: 50%;
+    position: fixed;
+    left: 814px;
+    top: 370px;
+}
